@@ -1,0 +1,11 @@
+C:\Users\tpham\source\repos\Test\Test\bin\Debug\Test.exe.config
+C:\Users\tpham\source\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\tpham\source\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\tpham\source\repos\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\tpham\source\repos\Test\Test\obj\Debug\Test.DentailForm.resources
+C:\Users\tpham\source\repos\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\tpham\source\repos\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\tpham\source\repos\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\tpham\source\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\tpham\source\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\tpham\source\repos\Test\Test\obj\Debug\Test.pdb
